@@ -2,7 +2,7 @@ from forex_python.converter import CurrencyRates
 from tkinter import *
 import tkinter.messagebox
 from PIL import ImageTk, Image
- 
+                                   # hello i am the author 
 root = Tk() 
 
 root.title("Currency Converter")
